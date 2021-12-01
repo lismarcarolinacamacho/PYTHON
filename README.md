@@ -1,3 +1,6 @@
 # PYTHON-tkinter-PANDAS machine learning 
 calculadora
-pandas numpy, matplotlib registro de vehiculos. Machine learning
+
+
+registro de vehiculos. Machine learning
+pandas numpy, matplotlib
