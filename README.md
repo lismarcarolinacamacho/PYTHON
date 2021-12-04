@@ -6,4 +6,6 @@ registro de vehiculos. Machine learning
 pandas numpy, matplotlib
 
 
-ARCHIVO CON ARBOL DE DECISION PARA EVALUAR EL DATASET : CAR.DATA
+ALGORITMO PARA ARBOL DE DECISION PARA EVALUAR EL DATASET : https://archive.ics.uci.edu/ml/machine-learning-databases/car/car.data
+ALGORITMO PARA REGRESIONEAL SIMPLE PARA EVALUAR EL DATASET: modehttp://lib.stat.cmu.edu/datasets/boston
+
