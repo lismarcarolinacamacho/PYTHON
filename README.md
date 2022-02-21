@@ -1,4 +1,4 @@
-# PYTHON-PANDAS machine learning 
+# PYTHON- Machine Learning 
 calculadora con tkinter
 
 
